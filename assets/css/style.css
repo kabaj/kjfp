@@ -524,7 +524,7 @@ footer p.small a {
 	border-bottom: 20px;
 }
 
-.footer {
-padding-top: 100px;
-
+.contact {
+	padding-top: 20px;
+	border-bottom: 1px solid #DE1B1B;
 }
